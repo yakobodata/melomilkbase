@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "1029777607545",
+    "project_id": "melomilkrashid",
+    "storage_bucket": "melomilkrashid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029777607545:android:527941d0033480e7203da8",
+        "android_client_info": {
+          "package_name": "com.example.melo_milk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029777607545-8fmi8h01sjobcnpfinfsb87upojmklil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa5MCGMrsyjJWyqgzQW4n6PMrrgeAO224"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029777607545-8fmi8h01sjobcnpfinfsb87upojmklil.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1029777607545-3k9gkftk841bijio206gvoi80tv1505r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.milkBase.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029777607545:android:8fdf17a99c78a44f203da8",
+        "android_client_info": {
+          "package_name": "com.example.melomilkbase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029777607545-8fmi8h01sjobcnpfinfsb87upojmklil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa5MCGMrsyjJWyqgzQW4n6PMrrgeAO224"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029777607545-8fmi8h01sjobcnpfinfsb87upojmklil.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1029777607545-3k9gkftk841bijio206gvoi80tv1505r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.milkBase.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
